@@ -1,0 +1,22 @@
+{
+  "name": "nuxt_base_learn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pomelott/nuxt_base_learn.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pomelott/nuxt_base_learn/issues"
+  },
+  "homepage": "https://github.com/pomelott/nuxt_base_learn#readme",
+  "dependencies": {
+    "create-nuxt-app": "^2.7.1"
+  }
+}
